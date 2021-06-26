@@ -102,7 +102,7 @@ ipython_config.py
 
 # poetry
 #poetry.lock
-
+*.zip
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
@@ -154,5 +154,8 @@ Thumbs.db
 # profiling data
 .prof
 
+
+
+.idea
 
 # End of https://www.toptal.com/developers/gitignore/api/flask
